@@ -28,5 +28,6 @@ Formula Reference
 
 This Excel-based Amazon Sales Dashboard is a powerful tool for sales data analysis and visualization, offering real-time insights that can drive informed decision-making.
 
+![Amazon Sales Dashboard](https://github.com/user-attachments/assets/93200e21-d19b-4f5f-894c-be4ad27d4a94)
 
 
